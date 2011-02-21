@@ -1,4 +1,4 @@
-#coding conventions
+#summary coding conventions
 
 = Introduction =
 
