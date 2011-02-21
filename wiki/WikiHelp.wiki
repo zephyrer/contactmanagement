@@ -7,7 +7,7 @@
 
 = Details =
 
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+1、wiki 页面第一行的开头必须写 #summary 。
+     后面的内容将会显示在列表中。
+
+2、暂未找到版本管理相关功能，如何查看历史版本？
