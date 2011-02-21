@@ -1,4 +1,4 @@
-#summary coding conventions
+#summary 代码命名规范
 
 = Introduction =
 
