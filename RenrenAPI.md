@@ -1,0 +1,6 @@
+# Introduction #
+
+http://wiki.dev.renren.com/wiki/API
+通过这个API实现与人人网通讯录的同步功能。
+
+# Details #
